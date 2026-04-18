@@ -10,4 +10,5 @@ jobs:
     with:
       board: '["nice_nano"]'
       shield: '["lily58_left nice_view_adapter nice_view","lily58_right nice_view_adapter nice_view"]'
+      tap: '["QWERTY"]'
       kconfig: '["CONFIG_ZMK_POINTING=y"]'
